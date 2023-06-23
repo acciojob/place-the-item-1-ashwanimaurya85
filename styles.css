@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.flex-holder{
+.holder{
 	background-color:white;
 	display:flex;
 justify-content:space-between;
