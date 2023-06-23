@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+.flex-container{
+	background-color:white;
+	display:flex;
+
+	flex-flow: row wrap;
+	
+}
+	.a{
+		background-color:green;
+		margin:2px;
+		padding:20px;
+		width:70px;
+		height:70px;
+		text-align:left;
+
+		font-size: 60px;
+		font-weight:50px;
+}
+#b{
+	background-color:red;
+}
+#c{
+	background-color:blue;
+}
